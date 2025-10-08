@@ -17,7 +17,7 @@ The Wiener-Khinchin theorem states that the power spectral density of a wide sen
 
 4.	Plot Results: Visualize the autocorrelation function and PSD.
 
-PROCEDURE
+# PROCEDURE
 
 •	Refer Algorithms and write code for the experiment.
 
